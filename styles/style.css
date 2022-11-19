@@ -69,8 +69,8 @@ background-size: cover;
 .hero-content {
    text-align: center;
    position:absolute; 
-   top: 55%;
-   right: 60%;
+   top: 50%;
+   right: 50%;
 }
 
 .hero-button {
@@ -89,7 +89,42 @@ cursor:pointer;
    color:  #d3bd9a; 
    background-color: #fff;
 }
- 
+.main {
+   text-align: center;
+}
+.main h2 {
+  line-height: 48px;
+   font-size: 45px;
+   font-family: 'Cairo Play', cursive;
+   margin: 30px;
+}
+  
+.main h3 {
+   line-height: 40px;
+    font-size: 38px;
+    font-family: 'Cairo Play', cursive;
+    margin: 20px;
+ }
+.main p {
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 25px;
+   letter-spacing: 2px;
+   line-height: 2;
+}
+
+.image-one {
+   width: 100%;
+   padding: 30px;
+   border-radius: 3px;
+}
+.card {
+   height: 200px;
+}
+.image-two {
+   width: 50%;
+   float: left;
+   padding-left: 30px;
+}
  @media (max-width: 800px) {
 
   .hamburger-menu {
