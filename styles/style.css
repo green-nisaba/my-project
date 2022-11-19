@@ -29,6 +29,11 @@ margin: 5px;}
     font-size: 18px;
 
  }
+ .main-menu li a:hover {
+   text-decoration: underline;
+ }
+ .active
+ {font-weight: bolder;}
  
  .hamburger {
     display: none;
@@ -54,7 +59,36 @@ cursor: pointer;
     border-radius: 10px;
  }
 
+.hero-image {
+   position: relative;
+   overflow: hidden; 
+height:600px;
+background: url("/images/fossil2.jpg") no-repeat center;
+background-size: cover;
+}
+.hero-content {
+   text-align: center;
+   position:absolute; 
+   top: 55%;
+   right: 60%;
+}
 
+.hero-button {
+color: #fff;
+background-color: #d3bd9a;
+border-radius: 4px;
+padding: 16px 30px;
+display: inline-block;
+text-align: center;
+font-size: 17px;
+font-family: 'Titillium Web', sans-serif;
+cursor:pointer;
+
+}
+.hero-button:hover {
+   color:  #d3bd9a; 
+   background-color: #fff;
+}
  
  @media (max-width: 800px) {
 
