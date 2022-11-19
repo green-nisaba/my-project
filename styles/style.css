@@ -110,6 +110,7 @@ cursor:pointer;
    font-size: 25px;
    letter-spacing: 2px;
    line-height: 2;
+   margin: 5px;
 }
 
 .image-one {
@@ -117,13 +118,12 @@ cursor:pointer;
    padding: 30px;
    border-radius: 3px;
 }
-.card {
-   height: 200px;
-}
+ 
 .image-two {
    width: 50%;
    float: left;
-   padding-left: 30px;
+   margin-left: 30px;
+   padding: 15px;
 }
  @media (max-width: 800px) {
 
@@ -149,5 +149,15 @@ cursor:pointer;
  .club-logo {
    font-size: 30px;
    margin: 0;
+ }
+ p {
+   font-size: 20px;
+   letter-spacing: 1px;
+   line-height: 1;
+   margin: 10px;git 
+ }
+ .hero-content {
+   top:75%;
+   right:20%;
  }
  }
