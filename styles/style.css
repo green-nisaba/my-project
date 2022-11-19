@@ -26,7 +26,7 @@ margin: 5px;}
     padding: 20px; 
     display: block;
     color: #fff;
-    font-size: 18px;
+    font-size: 25px;
 
  }
  .main-menu li a:hover {
@@ -156,8 +156,6 @@ cursor:pointer;
    line-height: 1;
    margin: 10px;git 
  }
- .hero-content {
-   top:75%;
-   right:20%;
- }
+ .hero-content {top:75%;
+   right:20%;}
  }
