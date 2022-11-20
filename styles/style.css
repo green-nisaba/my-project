@@ -126,10 +126,7 @@ cursor:pointer;
    padding: 15px;
 }
 footer {
-   position: absolute;
-   bottom: 0;
-   right: 0;
-   left: 0;
+
    height: auto;
    width: 100vw;
 background-color:#a28f70;
@@ -164,7 +161,47 @@ align-items: center;
 }
 .social-links i:hover {
 color: #674f04;}
- 
+
+.catalogue-item {
+   display: flex;
+   flex-direction: column;
+   margin: 10px;
+   text-align: center;
+   width: 100%;
+}
+.book-picture {
+   margin-top: 20px;
+}
+.book-text h2 {
+   font-size: 27px;
+   font-family: 'Cairo Play', cursive;
+   margin: 10px;
+}
+  
+.book-text p {
+   font-size: 20px;
+   margin: 0 20px;
+   font-family: 'Titillium Web', sans-serif;
+   letter-spacing: 1px;
+   line-height: 2;
+}
+.book-button {
+   color: #fff;
+background-color: #d3bd9a;
+border-radius: 4px;
+padding: 10px 20px;
+margin: 15px;
+display: inline-block;
+text-align: center;
+font-size: 17px;
+font-family: 'Titillium Web', sans-serif;
+cursor:pointer;
+}
+.book-button:hover {
+   color:  #d3bd9a; 
+   background-color: #fff;
+}
+
  @media (max-width: 800px) {
 
   .hamburger-menu {
