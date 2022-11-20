@@ -125,6 +125,40 @@ cursor:pointer;
    margin-left: 30px;
    padding: 15px;
 }
+footer {height: 150px;
+background-color:#a28f70;
+margin-top: 20px;
+color: #fff;
+font-family: 'Titillium Web', sans-serif;}
+
+.inside-footer {
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   text-align: center;
+   justify-content: center;
+}
+.inside-footer h4 {
+   margin-top: 10px;
+   font-size: 27px;
+}
+.footer-p {
+   font-size: 17px;
+}
+.social-links{
+   display: flex;
+align-items: center;
+}
+.social-links li {
+   margin: 10px 25px;
+}
+.social-links i {
+   font-size: 160%;
+   color: #fff;
+}
+.social-links i:hover {
+color: #674f04;}
+ 
  @media (max-width: 800px) {
 
   .hamburger-menu {
@@ -154,8 +188,9 @@ cursor:pointer;
    font-size: 20px;
    letter-spacing: 1px;
    line-height: 1;
-   margin: 10px;git 
+   margin: 10px; 
  }
- .hero-content {top:75%;
-   right:20%;}
+
+ .hero-content {top: 75%;
+   right: 20%;}
  }
