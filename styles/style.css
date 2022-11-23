@@ -163,8 +163,6 @@ align-items: center;
 color: #674f04;}
 
 .catalogue-item {
-   display: flex;
-   flex-direction: column;
    margin: 10px;
    text-align: center;
    width: 100%;
@@ -215,15 +213,22 @@ cursor:pointer;
    border-radius: 4px;
 
 }
+
 form {
    text-align: center;
    font-family:  'Titillium Web', sans-serif;
    font-size: 17px;
 }
 
-input,textarea {
+input {
    width: 100%;
    padding: 10px;
+}
+ textarea{
+   height: 80px;
+   width: 100%;
+   resize: none;
+
 }
 .submit-button {
    color: #fff;
