@@ -60,10 +60,10 @@ The link for Biology Clus is -
 # Credits 
 
 1. Content
-* Ideas for styling social links were taken from CI's [Love Running](https://github.com/green-nisaba/love-running-project)Project. 
+* Ideas for styling social links were taken from CI's [Love Running](https://github.com/green-nisaba/love-running-project) Project. 
 * Main principle for creating hamburger-element was taken prom [FollowAndrew](https://www.youtube.com/watch?v=sjrp1FEHnyA).
-* Color ideas were taken from [SheCodes] (https://palettes.shecodes.io/palettes/710#palette)
+* Color ideas were taken from [SheCodes](https://palettes.shecodes.io/palettes/710#palette)
 
 
 2. Media 
-* Images for the site were taken from [Pexels] (https://www.pexels.com/) and Pixabay [https://pixabay.com/]. 
+* Images for the site were taken from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/). 
