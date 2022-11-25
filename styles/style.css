@@ -123,11 +123,28 @@ cursor:pointer;
    margin: 15px;
 }
 
-.image-one {
-   width: 85%;
-   padding: 30px;
+ 
+.images-container {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+ }
+ .images-container > div {
+   margin: 5px;
+ }
+ 
+ .main-image1 {
+   max-width: 400px;
+   width: 100%;
+   object-fit: cover;
+ }
+ 
+ .main-image1 img {
+   max-height: 100%;
+   max-width: 100%;
    border-radius: 3px;
-}
+ }
+ 
  
 .image-two {
    width: 50%;
