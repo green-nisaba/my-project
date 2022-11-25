@@ -55,7 +55,7 @@ This website was deployed via GitPages. Here are the speps to do so:
 * In the GitHub pages select the master branch. 
 * After that you'll see a link to a published website.
 
-The link for Biology Clus is - 
+The link for Biology Club is - 
 
 # Credits 
 
