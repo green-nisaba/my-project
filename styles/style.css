@@ -257,6 +257,12 @@ color: #674f04;}
 }
 .book-picture {
    margin-top: 20px;
+  
+}
+.book-picture img {
+   height: 500px;
+   width: 300px;
+   object-fit: cover;
 }
 .book-text h2 {
    font-size: 27px;
