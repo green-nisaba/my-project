@@ -78,10 +78,15 @@ background-size: cover;
 }
 .hero-content {
    text-align: center;
-   position:absolute; 
-   top: 50%;
-   right: 50%;
-}
+  position: absolute;
+  top: 40%;
+  right: 30%;
+  padding: 100px;
+  color: #fff;
+  font-family: "Titillium Web", sans-serif;
+  background-color: rgb(211, 189, 154, 0.6);
+  border-radius: 4px;}
+
 
 .hero-button {
 color: #fff;
@@ -373,7 +378,8 @@ background-color:#f5f0e8;
    margin: 10px; 
  }
 
- .hero-content {top: 75%;
+ .hero-content {
+   top: 75%;
    right: 20%;}
 
    .inside-footer h4 {
@@ -448,8 +454,9 @@ background-color:#f5f0e8;
    width: 80%;
   }
  
-  .hero-content {top: 75%;
-    right: 20%;}
+  .hero-content {
+   top: 25%;
+    right: 25%;}
  
     .inside-footer h4 {
        margin-top: 10px;
