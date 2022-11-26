@@ -87,23 +87,15 @@ background-size: cover;
   background-color: rgb(211, 189, 154, 0.6);
   border-radius: 4px;}
 
+.hero-content h2 {
+   line-height: 35px;
+   font-size: 28px;
+   margin-bottom: 10px; }
 
-.hero-button {
-color: #fff;
-background-color: #d3bd9a;
-border-radius: 4px;
-padding: 16px 30px;
-display: inline-block;
-text-align: center;
-font-size: 17px;
-font-family: 'Titillium Web', sans-serif;
-cursor:pointer;
+   .hero-content h3 {
+      font-size: 21px;
+   }
 
-}
-.hero-button:hover {
-   color:  #d3bd9a; 
-   background-color: #fff;
-}
 .main {
    text-align: center;
 }
@@ -118,7 +110,7 @@ cursor:pointer;
    line-height: 40px;
     font-size: 38px;
     font-family: 'Cairo Play', cursive;
-    margin: 20px;
+    margin: 30px;
  }
 .main p {
    font-family: 'Titillium Web', sans-serif;
@@ -369,7 +361,7 @@ background-color:#f5f0e8;
  }
  .club-logo {
    font-size: 30px;
-   margin: 0;
+   margin-left: 10px;
  }
  p {
    font-size: 20px;
@@ -379,7 +371,6 @@ background-color:#f5f0e8;
  }
 
  .hero-content {
-   top: 75%;
    right: 20%;}
 
    .inside-footer h4 {
@@ -456,7 +447,8 @@ background-color:#f5f0e8;
  
   .hero-content {
    top: 25%;
-    right: 25%;}
+    right: 25%;
+   padding: 60px;}
  
     .inside-footer h4 {
        margin-top: 10px;
