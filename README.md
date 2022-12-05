@@ -5,10 +5,12 @@ The goal of the project is to give quick overview of the club's activities.
 The website has three pages, that contain information: about the club, Raptor's values, a library with recommended literature, and a contact form.
 
 # Features 
+# Navigation Bar
 * There is a club's logo RAPTOR in the left corner of a page. 
 * Navigational menu is located in the right side of the page, and has following links: Home, Library, Contact.
 * Additional button, that leads to Contact page could be found in the middle of a banner-image on at a top of the page. 
 * There are links to contact and library pages located in the text on the bottom of the screen.
+![nav-bar](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/navbar.png)
 
 
 # Hero image 
@@ -60,6 +62,24 @@ This website was deployed via GitPages. Here are the speps to do so:
 * After that you'll see a link to a published website.
 
 The link for Biology Club is - 
+
+In order to fork this project, you have to do following:
+
+* Browse to the required repository.
+* Click fork button and wait a few seconds.
+* Forked repository will appear uder your GitHub account.
+
+To clone repository:
+
+* Navigate to required repository.
+* Click on Code.
+* Choose and copy URL for repository.
+* Open Git Bush. 
+* Change directory to the desired directory.
+* Type git clone, paste URL from step 2.
+* Press Enter.
+
+
 
 # Credits 
 
