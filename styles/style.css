@@ -81,7 +81,7 @@ background-size: cover;
   position: absolute;
   top: 40%;
   right: 30%;
-  padding: 100px;
+  padding: 80px;
   color: #fff;
   font-family: "Titillium Web", sans-serif;
   background-color: rgb(211, 189, 154, 0.6);
@@ -125,6 +125,7 @@ background-size: cover;
    display: flex;
    justify-content: center;
    flex-wrap: wrap;
+   margin-bottom: 20px;
  }
  .images-container > div {
    margin: 5px;
@@ -373,6 +374,10 @@ background-color:#f5f0e8;
  .hero-content {
    right: 20%;}
 
+   .book-picture img {
+      height: 400px;
+      width: 300px;}
+
    .inside-footer h4 {
       margin-top: 10px;
       font-size: 20px;
@@ -434,9 +439,10 @@ background-color:#f5f0e8;
     letter-spacing: 2px;
     margin: 10px; 
   }
+ 
   .book-picture img {
-   width: 80%;
-  }
+   height: 300px;
+   width: 200px;}
 
   .catalogue-item {
    margin: 15px auto;
