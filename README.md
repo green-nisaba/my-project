@@ -14,14 +14,16 @@ The website has three pages, that contain information: about the club, Raptor's 
 # Hero image 
 
 * Contains a banner that shows archeology related image to catch user's attention.
-* Banner also has "Contact us" button, that leads to a contact page.
-
+* Banner also has short description of Raptor Club 
+![hero-image](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/hero-image.png)
 
 # Main section
 * Main section introduces user to a Raptor club.
 * It contains brief explanation on who we are, what we do, why biology matters and our activities.
 * Section also has two responsive photos to support information in the text.
 * There are two links in the last p in the text with limks to contact and library pages.
+![main-section](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/text-section.png)
+
 
 # Library 
 
@@ -33,11 +35,13 @@ The website has three pages, that contain information: about the club, Raptor's 
 
 * Sign up form gives user an opportunity to contact Club Raptor.
 * There are fields for name, email and a comment.
+![sign up form](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/contact-form.png)
 
 # Footer 
 
 * Footer includes Kant's quote about learning to encourage users' curiosity.
 * It also has links to Club Raptor's social media pages. All links open in a new tab.
+![footer](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/footer.png)
 
 # Validator Testing 
 
