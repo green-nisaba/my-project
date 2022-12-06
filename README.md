@@ -9,7 +9,7 @@ The website has three pages, that contain information: about the club, Raptor's 
 
 ## Color Scheme 
 Few shades of brown were chosen for this project to support neutral color range. 
-![color palette](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/colors.png)
+![color palette](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/colors1.png)
 
 ## Typography 
 Two fonts were chosen for this website to differentiate between heading and paragraphs. They were installed with Google Fonts. 
@@ -30,7 +30,7 @@ All photos were chosen to illustrate and support content. Chosen images match ov
 
 * Contains a banner that shows archeology related image to catch user's attention.
 * Banner also has short description of Raptor Club 
-![hero-image](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/hero-image.png)
+![hero-image](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/hero-image1.png)
 
 # Main section
 * Main section introduces user to a Raptor club.
@@ -56,7 +56,7 @@ All photos were chosen to illustrate and support content. Chosen images match ov
 
 * Footer includes Kant's quote about learning to encourage users' curiosity.
 * It also has links to Club Raptor's social media pages. All links open in a new tab.
-![footer](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/footer.png)
+![footer](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/footer1.png)
 
 # Validator Testing 
 
