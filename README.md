@@ -5,6 +5,19 @@ The goal of the project is to give quick overview of the club's activities.
 The website has three pages, that contain information: about the club, Raptor's values, a library with recommended literature, and a contact form.
 
 # Features 
+# Design
+
+## Color Scheme 
+Few shades of brown were chosen for this project to support neutral color range. 
+![color palette](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/colors.png)
+
+## Typography 
+Two fonts were chosen for this website to differentiate between heading and paragraphs. They were installed with Google Fonts. 
+![fonts](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/fonts.png)
+
+## Imagery
+All photos were chosen to illustrate and support content. Chosen images match overall color scheme.
+
 # Navigation Bar
 * There is a club's logo RAPTOR in the left corner of a page. 
 * Navigational menu is located in the right side of the page, and has following links: Home, Library, Contact.
