@@ -68,7 +68,7 @@ All photos were chosen to illustrate and support content. Chosen images match ov
 
 # Deployment 
 
-This website was deployed via GitPages. Here are the speps to do so: 
+This website was deployed via GitPages. Here are the steps to do so: 
 
 * In website's repository, go to setting.
 * In the GitHub pages select the master branch. 
