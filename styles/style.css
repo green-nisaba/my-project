@@ -207,6 +207,7 @@ background-size: cover;
    letter-spacing: 1.5px;
    line-height: 2;
    text-align: justify;
+   margin-right: 20px;
  }
  .info-section3 img {
    height: 400px;

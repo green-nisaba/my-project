@@ -31,7 +31,7 @@ The website has three pages, that contain information: about the club, Raptor's 
 
 * Library shows biology books recommended for reading. 
 * Each book in the section shows name of the book, it's cover, author and a link to a website, where user can buy or download it.
-
+![library section](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/library.png)
 
 # Sign up 
 
