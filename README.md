@@ -58,7 +58,9 @@ All photos were chosen to illustrate and support content. Chosen images match ov
 * It also has links to Club Raptor's social media pages. All links open in a new tab.
 ![footer](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/footer1.png)
 
-# Validator Testing 
+# Testing
+
+## Validator Testing 
 
 * HTML 
 
@@ -74,7 +76,7 @@ This website was deployed via GitPages. Here are the steps to do so:
 * In the GitHub pages select the master branch. 
 * After that you'll see a link to a published website.
 
-The link for Biology Club is - 
+The link for Biology Club is - https://green-nisaba.github.io/my-project/
 
 In order to fork this project, you have to do following:
 
