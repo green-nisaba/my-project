@@ -372,6 +372,7 @@ background-color:#f5f0e8;
       margin: auto;
      }
 
+     
 }
 
 
@@ -410,7 +411,9 @@ background-color:#f5f0e8;
  }
 
  .hero-content {
-   right: 20%;}
+   right: 20%;
+padding: 55px;
+top:50%;}
 
    .book-picture img {
       height: 400px;
@@ -522,6 +525,18 @@ margin: 0;
  
 .main-image1 {
    height: 300px;
+   
+}
+
+.hero-content {
+padding: 40px;}
+
+.hero-content h2 {
+   font-size: 21px;
+}
+
+.hero-content h3 {
+   font-size: 17px;
 }
 
 
@@ -573,7 +588,8 @@ object-fit: cover;}
   .hero-content {
    top: 25%;
     right: 25%;
-   padding: 60px;}
+   padding: 40px;}
+
  
     .inside-footer h4 {
        margin-top: 10px;
