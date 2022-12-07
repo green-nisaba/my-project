@@ -152,6 +152,7 @@ background-size: cover;
  
  .info-section-image1 {
    margin-right: 20px;
+   margin-top: 45px;
  }
  
  .info-section-content1 {
@@ -175,6 +176,7 @@ background-size: cover;
  
  .info-section-image2 {
    margin-left: 20px;
+   margin-top: 45px;
  }
  
  .info-section-content2 {
@@ -198,6 +200,7 @@ background-size: cover;
  
  .info-section-image3 {
    margin-right: 20px;
+   margin-top: 40px;
  }
  
  .info-section-content3 {
@@ -339,6 +342,39 @@ input {
 color: #674f04;
 background-color:#f5f0e8;
 }
+
+@media (max-width: 935px)
+{
+   .info-section-image1 {
+      margin: auto;
+     }
+     .info-section-image2 {
+      margin: auto;
+     }
+     .info-section-image3 {
+      margin: auto;
+     }
+
+}
+
+@media (max-width: 732px)
+{
+   .info-section-image1 {
+      margin: auto;
+     }
+     .info-section-image2 {
+      margin: auto;
+     }
+     .info-section3 {
+      margin: 0;
+     }
+     .info-section-image3 {
+      margin: auto;
+     }
+
+}
+
+
 
  @media (max-width: 800px) {
 
