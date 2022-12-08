@@ -59,14 +59,23 @@ All photos were chosen to illustrate and support content. Chosen images match ov
 ![footer](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/footer1.png)
 
 # Testing
+The Website was tedted on Chrome, Opera and Edge browsers. Responsiveness was also checked via 
+simulating different devices (tablets, mobile phones). 
 
 ## Validator Testing 
 
 * HTML 
+Html Checker found no errors or warnings to show. 
 
 * CSS 
+W3C CSS Validator found no errors. 
 
 * Accessibility 
+## Bugs 
+Fixed bugs: 
+* Website's productivity was improved by replacing existing images with their lighter versions.
+* After deployment, some pictures couldn't been seen. The issue was fixed by adding relative paths to them. 
+* Website's footer  was going up on some pages. It was resolved by using min-height property. 
 
 # Deployment 
 
@@ -105,4 +114,4 @@ To clone repository:
 
 
 2. Media 
-* Images for the site were taken from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/). 
+* Images for the site were taken from [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/) and [Unsplash](https://unsplash.com/). 
