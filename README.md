@@ -1,11 +1,11 @@
 # Biology Club Raptor 
 ![site responsivness](https://github.com/green-nisaba/my-project/blob/main/images/amIresponsive.png)
+
 Biology Club Raptor is a website about a biology club, created for children or their parents, who wish to deepen their knowledge in biology. 
 The goal of the project is to give quick overview of the club's activities.  
 
 The website has three pages, that contain information: about the club, Raptor's values, a library with recommended literature, and a contact form.
 
-# Features 
 # Design
 
 ## Color Scheme 
@@ -71,7 +71,9 @@ Html Checker found no errors or warnings to show.
 W3C CSS Validator found no errors. 
 
 * Accessibility 
+
 ![lighthouse homepage](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/lighthouse_1.png)
+
 ![lighthouse library](https://raw.githubusercontent.com/green-nisaba/my-project/main/images/lighthouse_2.png)
 
 
